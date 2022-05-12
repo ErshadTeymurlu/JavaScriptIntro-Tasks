@@ -1,0 +1,1 @@
+alert(`${n}. fibonacchi number is: ` + " " + Fibonachi(m, n))
